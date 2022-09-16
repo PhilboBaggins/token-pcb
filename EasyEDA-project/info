@@ -1,0 +1,33 @@
+{
+  "uuid": "20a612a8b52653fcd010edca97a2342d",
+  "path": "Offline/Token",
+  "name": "Token",
+  "content": "",
+  "created_at": "2022-09-16 22:11:29",
+  "updated_at": "2022-09-16 22:33:48",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "cddd1b17e01123953d2175e5ab6b6aae",
+      "puuid": "20a612a8b52653fcd010edca97a2342d",
+      "title": "PCB_Token",
+      "filename": "PCB_Token.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {},
+      "BOM": [],
+      "updateTime": 1663331628,
+      "createTime": 1663330289,
+      "histories": [],
+      "created_at": "2022-09-16 22:11:29",
+      "updated_at": "2022-09-16 22:33:48"
+    }
+  ],
+  "sort": [],
+  "title": "Token",
+  "foldername": "Token",
+  "schfilename": "Token.json",
+  "schfilemtime": 1663330289173.257
+}

@@ -1,8 +1,10 @@
 # Token
 
-TODO: Write description
+I was bored one day, so I made this... not sure what'll do with it... get the PCB manufactured, laser cut design into it, use in game or something...
 
-TODO: Add photo of completed board
+Photo of the board with a [pico-w](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html) next to it (for scale).
+
+![Photo](./photo.jpg)
 
 ![Top of board](Exports-v1.0/Top.svg)
 ![Top of board](Exports-v1.0/Bottom.svg)
